@@ -1,0 +1,1 @@
+Repositorio criado para armazenar o projeto A3 da UC de Inteligencia artificial do curso de sistemas de informação da UAM.
